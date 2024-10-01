@@ -1,0 +1,6 @@
+
+Splash Screen Android Java:
+===========================
+
+web link : https://www.geeksforgeeks.org/splash-screen-in-android/
+---------
